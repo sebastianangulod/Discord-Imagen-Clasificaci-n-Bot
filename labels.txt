@@ -1,0 +1,4 @@
+0 Bengala
+1 Esfinge
+2 Persa
+3 Siames
